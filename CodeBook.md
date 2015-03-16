@@ -1,15 +1,11 @@
-##Data Source
+#Data Source
 
 Original dataset "Human Activity Recognition Using Smartphones Data Set" 
 
 Original URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-##Transformation details
-
-
-
-##Important thing to note
+#Important thing to note
 
 This R script require the following packages to be installed: reshape2 and data.table
 
